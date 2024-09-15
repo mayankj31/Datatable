@@ -16,3 +16,6 @@ This is a React application that demonstrates the implementation of a DataTable 
 * PrimeReact
 + Vite
 - Axios (for API requests)
+
+## Deployed URL 
+https://mayanksdatatable.netlify.app/
