@@ -9,7 +9,8 @@ This is a React application that demonstrates the implementation of a DataTable 
 * Persistent row selection even when navigating between pages.
 + Supports dynamic custom row count selection using an overlay panel.
 - Integrated API calls to fetch artwork data.
-* Technologies Used
+
+## Technologies Used
 + React 18
 - TypeScript
 * PrimeReact
