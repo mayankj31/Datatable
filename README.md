@@ -17,5 +17,15 @@ This is a React application that demonstrates the implementation of a DataTable 
 + Vite
 - Axios (for API requests)
 
-## Deployed URL 
-https://mayanksdatatable.netlify.app/
+## API Integration
+This project fetches data from the Art Institute of Chicago API to display artwork information in the DataTable.
+
+## Deployment
+This application is deployed on Netlify. You can view the live version here :
+### https://mayanksdatatable.netlify.app/
+
+## How to Use
+- Navigate through pages using the paginator at the bottom of the table.
+- Use the custom row selection feature by clicking the dropdown icon in the table's header.
+- Enter the desired number of rows to select across pages, and click Apply.
+- The selection will persist across pages, and new selections will start from the current page if all rows are deselected.
